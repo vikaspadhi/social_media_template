@@ -1,0 +1,19 @@
+.stories .card
+{
+    width: 150px;
+    height: 250px;
+    margin: 4px;
+}
+
+.stories img
+{
+    height: 250px;
+    object-fit: cover;
+}
+
+.profile
+{
+    width: 50px !important;
+    height: 50px !important;
+    object-fit: cover;
+}
